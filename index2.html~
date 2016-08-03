@@ -1,12 +1,7 @@
-<html>
-  <body>
-    <ul>
+<ul>
       <li>Pankaj</li>
       <li>Amit</li>
       <li>Sunil</li>
       <li>Harish</li>
       <li>Dinesh</li>
-      <li>Jitu</li>
     </ul>
-  </body>
-</html>
